@@ -1,0 +1,14 @@
+/target/
+/.project
+/.classpath
+/.factorypath
+/.settings
+/bin
+/.apt_generated/
+/logs/
+/.tern-project
+/.mvn
+/work
+/workspaces
+/.idea
+/*.iml
